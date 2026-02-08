@@ -1,0 +1,13 @@
+# Database
+*.sql.backup
+*.dump
+
+# Docker
+.env.local
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
