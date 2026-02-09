@@ -31,7 +31,7 @@ Mở http://localhost:3000
 - LocalStorage
 
 ## Demo
-[![Video mô phỏng](preview.png)](demo.mp4)
+[![Tải xuống video demo](preview.png)](demo.mp4)
 
 
 
