@@ -31,8 +31,8 @@ Mở http://localhost:3000
 - LocalStorage
 
 ## Demo
-[![Tải xuống video demo](preview.png)](demo.mp4)
-Sau khi nhấn: Tải xuống video demo thì nhấn tiếp View raw để tải Video về máy
+## 🎥 Video DEMO
+👉 https://drive.google.com/file/d/1h8dGuyT4EsLHZ7GDoSROQ7K8bgGT2rxR/view?usp=drive_link
 
 
 

@@ -1,6 +1,6 @@
 ## Demo
-[![Tải xuống video demo](preview.png)](demo3.mp4)
-Sau khi nhấn: Tải xuống video demo thì nhấn tiếp View raw để tải Video về máy
+## 🎥 Video DEMO
+👉 https://drive.google.com/file/d/1gE9V6zeV33lf7r5c1NUEfGjSvMurI_lD/view?usp=drive_link
 
 # Hệ Thống Quản Lý Kho Thông Minh - Warehouse Management System
 

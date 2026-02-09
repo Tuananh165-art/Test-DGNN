@@ -31,5 +31,5 @@ Mở http://localhost:3000
 - PapaParse
 
 ## Demo
-[![Tải xuống video demo](preview.png)](demo1.mp4)
-Sau khi nhấn: Tải xuống video demo thì nhấn tiếp View raw để tải Video về máy
+## 🎥 Video DEMO
+👉 https://drive.google.com/file/d/1uDbZ5OVO7uPhuz5ZaRHtl8TxWN0SLMKi/view?usp=drive_link

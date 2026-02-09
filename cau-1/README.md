@@ -41,8 +41,9 @@ python delivery_optimizer.py
 Hình minh họa thể hiện mô hình trực quan cho bài toán tối ưu lộ trình xe giao hàng trên bản đồ lưới hai chiều. Trên hình, hệ trục tọa độ X–Y biểu diễn bản đồ n × m, trong đó ngôi sao màu vàng là vị trí xuất phát ban đầu của xe khi chưa chở hàng và bình xăng đầy. Các điểm màu xanh dương (P1, P2, P3) là vị trí lấy hàng của các đơn, còn các điểm màu đỏ (D1, D2, D3) tương ứng là vị trí giao hàng. Các ô vuông màu xanh lá biểu thị các trạm xăng, nơi xe có thể dừng lại để đổ đầy nhiên liệu khi cần. Đường màu cam nối các điểm cho thấy lộ trình di chuyển thực tế của xe từ điểm xuất phát, qua các điểm lấy hàng, giao hàng và trạm xăng. Lộ trình này được xây dựng sao cho tại mọi thời điểm tổng khối lượng hàng trên xe không vượt quá tải trọng tối đa W, đồng thời xe luôn có đủ nhiên liệu để di chuyển theo các hướng hợp lệ trên lưới. Qua đó, hình ảnh giúp minh họa rõ ràng cách xe hoàn thành tất cả đơn hàng một cách hợp lệ, đồng thời hỗ trợ đánh giá và tối ưu các tiêu chí như tổng quãng đường di chuyển hoặc số lần đổ xăng.
 
 ## Demo
-[![Tải xuống video demo](preview.png)](demo0.mp4)
-Sau khi nhấn: Tải xuống video demo thì nhấn tiếp View raw để tải Video về máy
+## 🎥 Video DEMO
+👉 https://drive.google.com/file/d/1XNuhWnLIMsYLlMwgSpVXsQLBCxUZUfvi/view?usp=sharing
+
 
 
 ## Thuật toán

@@ -31,5 +31,5 @@ Mở http://localhost:3000
 - Interactive graph
 
 ## Demo
-[![Tải xuống video demo](preview.png)](demo2.mp4)
-Sau khi nhấn: Tải xuống video demo thì nhấn tiếp View raw để tải Video về máy
+## 🎥 Video DEMO
+👉 https://drive.google.com/file/d/1QVYHh6VSZMTYJwjPQZ7qq_GnphsKI47x/view?usp=drive_link
