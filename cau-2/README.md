@@ -31,8 +31,6 @@ Mở http://localhost:3000
 - LocalStorage
 
 ## Demo
-<video width="640" controls>
-  <source src="video-demo-1.mp4" type="video/mp4">
-  Trình duyệt của bạn không hỗ trợ video.
-</video>
+[▶ Xem video mô phỏng lộ trình](video-demo-1.mp4)
+
 
