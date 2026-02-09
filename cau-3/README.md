@@ -29,3 +29,7 @@ Mở http://localhost:3000
 - React 18
 - Chart.js
 - PapaParse
+
+## Demo
+[![Tải xuống video demo](preview.png)](demo1.mp4)
+Sau khi nhấn: Tải xuống video demo thì nhấn tiếp View raw để tải Video về máy
