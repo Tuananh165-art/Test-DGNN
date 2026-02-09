@@ -32,6 +32,7 @@ Mở http://localhost:3000
 
 ## Demo
 [![Tải xuống video demo](preview.png)](demo.mp4)
+Sau khi nhấn: Tải xuống video demo thì nhấn tiếp View raw để tải Video về máy
 
 
 
