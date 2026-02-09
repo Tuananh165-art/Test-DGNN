@@ -31,7 +31,7 @@ Mở http://localhost:3000
 - LocalStorage
 
 ## Demo
-[![Video mô phỏng](preview.png)](https://github.com/Tuananh165-art/Test-DGNN/blob/master/cau-2/demo.mp4)
+[![Video mô phỏng](preview.png)](demo.mp4)
 
 
 
