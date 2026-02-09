@@ -31,6 +31,6 @@ Mở http://localhost:3000
 - LocalStorage
 
 ## Demo
-[▶ Xem video mô phỏng lộ trình](video-demo-1.mp4)
+[▶ Xem video mô phỏng lộ trình](demo.mp4)
 
 
