@@ -29,3 +29,10 @@ Mở http://localhost:3000
 - React 18
 - Chart.js
 - LocalStorage
+
+## Demo
+<video width="640" controls>
+  <source src="video-demo-1.mp4" type="video/mp4">
+  Trình duyệt của bạn không hỗ trợ video.
+</video>
+
