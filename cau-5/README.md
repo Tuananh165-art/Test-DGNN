@@ -1,3 +1,7 @@
+## Demo
+[![Tải xuống video demo](preview.png)](demo3.mp4)
+Sau khi nhấn: Tải xuống video demo thì nhấn tiếp View raw để tải Video về máy
+
 # Hệ Thống Quản Lý Kho Thông Minh - Warehouse Management System
 
 Hệ thống cơ sở dữ liệu quản lý kho thông minh cho nhà máy sản xuất (ví dụ: Vinamilk).
